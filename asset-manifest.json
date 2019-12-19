@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iotfirebase/static/css/main.6c25cdd9.chunk.css",
+    "main.js": "/iotfirebase/static/js/main.471682a8.chunk.js",
+    "main.js.map": "/iotfirebase/static/js/main.471682a8.chunk.js.map",
+    "runtime-main.js": "/iotfirebase/static/js/runtime-main.198520c7.js",
+    "runtime-main.js.map": "/iotfirebase/static/js/runtime-main.198520c7.js.map",
+    "static/js/2.528cc7fe.chunk.js": "/iotfirebase/static/js/2.528cc7fe.chunk.js",
+    "static/js/2.528cc7fe.chunk.js.map": "/iotfirebase/static/js/2.528cc7fe.chunk.js.map",
+    "index.html": "/iotfirebase/index.html",
+    "precache-manifest.8ce6f9bbbfba4d1a4bdaac79c0a68c32.js": "/iotfirebase/precache-manifest.8ce6f9bbbfba4d1a4bdaac79c0a68c32.js",
+    "service-worker.js": "/iotfirebase/service-worker.js",
+    "static/css/main.6c25cdd9.chunk.css.map": "/iotfirebase/static/css/main.6c25cdd9.chunk.css.map",
+    "static/js/2.528cc7fe.chunk.js.LICENSE": "/iotfirebase/static/js/2.528cc7fe.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.198520c7.js",
+    "static/js/2.528cc7fe.chunk.js",
+    "static/css/main.6c25cdd9.chunk.css",
+    "static/js/main.471682a8.chunk.js"
+  ]
+}
